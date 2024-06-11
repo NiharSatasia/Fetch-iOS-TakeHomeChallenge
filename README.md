@@ -15,12 +15,14 @@ This iOS app fetches a list of dessert recipes and provides a detailed view for 
 ## Screenshots
 
 ### Home View
-![Home View]()![Fetch_Home](https://github.com/NiharSatasia/Fetch-iOS-TakeHomeChallenge/assets/94576910/cdbf7456-09cd-4748-b7b4-78f56c7a516a)
+(https://github.com/NiharSatasia/Fetch-iOS-TakeHomeChallenge/assets/94576910/cdbf7456-09cd-4748-b7b4-78f56c7a516a)
 
 
 ### Dessert List
-![Dessert List](assets/dessert-list.png)
+![Fetch_DessertList](https://github.com/NiharSatasia/Fetch-iOS-TakeHomeChallenge/assets/94576910/6e6749b5-043d-4d21-83d1-a6f6175e34c9)
+
 
 ### Dessert Details
-![Dessert Details](assets/dessert-details.png)
+![Fetch_DessertDetails](https://github.com/NiharSatasia/Fetch-iOS-TakeHomeChallenge/assets/94576910/1489b920-991f-4ad0-9c61-423792623e46)
+
 
